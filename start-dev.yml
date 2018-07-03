@@ -1,5 +1,5 @@
 shiy:
-  age: 789
+  age: 123456
 server:
   port: 9766
 eureka:
